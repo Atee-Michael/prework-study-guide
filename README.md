@@ -6,7 +6,7 @@ This is an introductory project that represents my very first step in my quest t
 
 ## Installation
 
-N/A
+Not applicable
 
 ## Usage
 
@@ -15,7 +15,7 @@ You can review the notes in each section of this Prework Study Guide to help you
 
 ## Credits
 
-N/A
+Not applicable
 
 ## License
 
